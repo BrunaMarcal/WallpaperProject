@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "981677871812",
+    "project_id": "wallpaperapp-e9dc0",
+    "storage_bucket": "wallpaperapp-e9dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981677871812:android:3b78df95931e686b75af91",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981677871812-l8882dhl62feg30b2je0519nehmh7dvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8eDqvkzs24gnwMxL62UfZWH9LbkHKg_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981677871812-l8882dhl62feg30b2je0519nehmh7dvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981677871812:android:b649dab3b4eb1a3f75af91",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperproject.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981677871812-l8882dhl62feg30b2je0519nehmh7dvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8eDqvkzs24gnwMxL62UfZWH9LbkHKg_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981677871812-l8882dhl62feg30b2je0519nehmh7dvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981677871812:android:0d30059b41c8745c75af91",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperproject.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981677871812-l8882dhl62feg30b2je0519nehmh7dvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8eDqvkzs24gnwMxL62UfZWH9LbkHKg_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981677871812-l8882dhl62feg30b2je0519nehmh7dvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
